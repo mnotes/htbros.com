@@ -1,0 +1,1 @@
+@lang('blog_blog_rss.ht_day_la_trang_thong_tin_rss')
